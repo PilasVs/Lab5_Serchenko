@@ -2,7 +2,6 @@
 
 namespace Matrices
 {
-    using SquareMatrices;
     class Matrix
     {
         public uint GetRows()
